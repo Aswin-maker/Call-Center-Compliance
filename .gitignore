@@ -1,0 +1,9 @@
+# Local virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Sample media data
+sample-data/
