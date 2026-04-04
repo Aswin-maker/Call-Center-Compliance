@@ -7,3 +7,11 @@ __pycache__/
 
 # Sample media data
 sample-data/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Runtime temp files
+temp_audio/
